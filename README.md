@@ -33,6 +33,28 @@ head(pokemoncombat)
 dim(pokemoncombat)
 attach(pokemoncombat)
 attach(pokemon)
+test
+test
+test
+testtest
+test
+test
+testtest
+test
+test
+testtest
+test
+test
+testtest
+test
+test
+testtest
+test
+test
+testtest
+test
+test
+test
 ```
 ## EDA
 

@@ -1,6 +1,6 @@
 # Pokemon Data Analysis
 
-**Welcome to Weedle's Cave.**  Will you be able to predic the outcome of future matches?
+**Welcome to Weedle's Cave.**  Will you be able to predict the outcome of future matches?
 
 To do it you will have the pokemon characteristics and the results of previous combats.
 
@@ -9,6 +9,8 @@ Three files are available. The first one contains the Pokemon characteristics (t
 **Important:** The Pokemon in the first column attacks first.
 
 The goal is to develop a Machine Learning model able to predict the result of future pokemon combats.
+
+## My Notes
 
 This is my first project regarding the analysis of pokemon predictions of which pokemon will win based upon the analysis of the questions.  
 

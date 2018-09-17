@@ -19,7 +19,7 @@ the most appropriate predictors...
 
 But I'm new, so this is just practice.
 
-[Data Preparation](#data-preparation)
+[Data Preparation](#data-preparation)\
 [EDA](#eda)
 
 ## Data Preparation

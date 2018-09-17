@@ -1,8 +1,8 @@
-setwd("/home/badugi/Desktop/KNN project/Pokemon")
+setwd("/home/badugi/Desktop/Pokemon")
 
 pokemon = read.csv("pokemon.csv")
 pokemoncombat = read.csv("combats.csv")
-tests = read.csv("tests.csv")
+
 head(pokemon)
 head(pokemoncombat)
 dim(pokemoncombat)
@@ -10,8 +10,6 @@ attach(pokemoncombat)
 attach(pokemon)
 
 #the objective is to predict the winners of pokemon.
-
-
 
 #######################EDA#######################################################################################
 #it seems like the dataset consists of a specific type of pokemon vs another specific pokemon type.  

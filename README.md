@@ -19,4 +19,17 @@ the most appropriate predictors...
 
 But I'm new, so this is just practice.
 
+[Data Preparation](#Data Preparation)
 
+## Data Preparation
+
+```
+pokemon = read.csv("pokemon.csv")
+pokemoncombat = read.csv("combats.csv")
+
+head(pokemon)
+head(pokemoncombat)
+dim(pokemoncombat)
+attach(pokemoncombat)
+attach(pokemon)
+```
